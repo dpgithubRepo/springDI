@@ -1,0 +1,14 @@
+*.class 
+*.metadata 
+*.meta
+*.settings
+*.jar
+*.war
+*.classpath
+*.cmd
+*.mvn
+mvnw
+target
+*.log
+*.project
+
